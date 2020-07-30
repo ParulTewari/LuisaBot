@@ -1,0 +1,12 @@
+.brand-color-primary{
+ color: @brand-color-default !important;
+}
+
+.brand-color-primary-bg{
+ background-color: @brand-color-default !important;
+}
+
+.brand-color-primary-border{
+ border-color: @brand-color-default !important;
+}
+
